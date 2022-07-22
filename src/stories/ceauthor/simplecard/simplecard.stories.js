@@ -22,4 +22,12 @@ export default {
         console.log("Hello there")
     }
   };
+
+  Card02.args = {
+    header: 'Headers',
+    description:'XDescs',
+    handler: () =>  {
+        console.log("Clicked here there")
+    }
+  };
   
