@@ -14,7 +14,7 @@ Card.args = {
     header: 'New Header from there',
     description:'description!!',
     handler: () =>  {
-        console.log(" --- Override Hello there")
+        console.log(" --- Override Hello there, click invoked in this.")
     }
 };
 
